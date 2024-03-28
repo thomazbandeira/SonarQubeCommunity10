@@ -9,6 +9,9 @@
 UPDATES: Caso deseja configurar no Azure DevOps, Você deve adicionar uma chave a mais referente a Java SDK.
 
 Ex.: 
+
         - task: SonarQubeAnalyze@5
+        
           inputs:
+        
             jdkversion: 'JAVA_HOME_17_X64'
