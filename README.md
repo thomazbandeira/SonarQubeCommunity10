@@ -13,3 +13,6 @@ Ex.:
         - task: SonarQubeAnalyze@5        
           inputs:        
             jdkversion: 'JAVA_HOME_17_X64'
+
+
+Caso tenha te ajudado, me dê uma estrela ;)
